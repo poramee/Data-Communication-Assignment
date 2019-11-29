@@ -1,0 +1,6 @@
+[submodule "FM-PC1"]
+	path = FM-PC1
+	url = https://github.com/poramee/FM-PC1
+[submodule "FM-PC2"]
+	path = FM-PC2
+	url = https://github.com/poramee/FM-PC2
